@@ -1,0 +1,8 @@
+{
+    "app_id": "rit-kannada-dataset-hxtol",
+    "config_version": 20210101,
+    "name": "RIT-KANNADA-DATASET",
+    "location": "IN-MB",
+    "deployment_model": "LOCAL",
+    "environment": "testing"
+}
