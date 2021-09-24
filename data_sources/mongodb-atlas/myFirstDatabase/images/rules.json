@@ -1,0 +1,18 @@
+{
+    "collection": "images",
+    "database": "myFirstDatabase",
+    "roles": [
+        {
+            "name": "owner",
+            "apply_when": {
+                "Test": "%%user.id"
+            },
+            "read": true,
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "additional_fields": {}
+        }
+    ]
+}
